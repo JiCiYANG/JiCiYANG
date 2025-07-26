@@ -1,31 +1,31 @@
 ## Hi there 👋
-# 👋 你好，我是 JiCiYANG！
+# 👋 Hello, I'm JiCiYANG!
 
-毕业于 KYUNG HEE UNIVERSITY，19学号  
-我是一个热衷于 JAVA 开发、Python、深度学习、大模型开发与 AI 应用的开发者。目前专注于：
+Graduated from **KYUNG HEE UNIVERSITY**, Class of 2019  
+I'm a passionate developer focusing on **Java**, **Python**, **deep learning**, **large language models**, and **AI applications**. Currently, my work and interests revolve around:
 
-- 🏦 金融债券系统开发与维护，熟悉债券业务流程及风险管理
+- 🏦 Financial bond system development & maintenance, with solid understanding of bond business processes and risk management  
 - 🤖 PyTorch / Hugging Face / Transformers  
-- 📚 LLM 微调、RAG、Prompt 工程  
-- 🛠️ 构建 AI 应用：聊天机器人、知识问答、模型部署
+- 📚 LLM fine-tuning, RAG, and prompt engineering  
+- 🛠️ Building AI applications: chatbots, knowledge-based Q&A, model deployment  
 
 ---
 
-## 🚀 我的项目
+## 🚀 Projects
 
-- 🔍 **[llm-roadmap](https://github.com/JiCiYANG/llm-roadmap)**: 大模型学习路径与笔记  
-- 🧠 **[rag-demo](https://github.com/JiCiYANG/rag-demo)**: 使用 LangChain 构建本地知识库问答系统  
-- 💬 **[chatbot-tutorial](https://github.com/JiCiYANG/chatbot-tutorial)**: 微调 LLaMA2 构建私有聊天机器人  
+- 🔍 **[llm-roadmap](https://github.com/JiCiYANG/llm-roadmap)**: Learning path and notes for large language models  
+- 🧠 **[rag-demo](https://github.com/JiCiYANG/rag-demo)**: Local knowledge-based Q&A system using LangChain  
+- 💬 **[chatbot-tutorial](https://github.com/JiCiYANG/chatbot-tutorial)**: Private chatbot built with fine-tuned LLaMA2  
 
 ---
 
-## 📫 联系方式
+## 📫 Contact
 
 - 📧 Email: jiciyang191314@gmail.com  
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
@@ -36,33 +36,36 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiCiYANG&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌱 近期学习方向
+## 🌱 Currently Learning
 
-- 深入掌握大模型微调技术，如 LoRA、PEFT  
-- 探索 RAG（检索增强生成）系统的开发与应用  
-- 研究多模态 AI 模型，结合文本、图像等多种数据  
-- 优化模型部署方案，提升推理效率与稳定性  
+- Mastering LLM fine-tuning techniques like LoRA and PEFT  
+- Exploring RAG (Retrieval-Augmented Generation) systems  
+- Researching multimodal AI models combining text, images, and more  
+- Optimizing model deployment for faster and more stable inference  
 
 ---
 
-## ⚡ 兴趣爱好
+## ⚡ Interests
 
-- 阅读科技前沿论文与技术博客  
-- 参与开源项目，贡献代码与文档  
-- 分享 AI 技术相关内容，助力社区成长
-- 健身、泰拳
-  
-## ⚡ 技能证书
-- 雅思7
-- Topik6
-- PMP证书
-  
+- Reading cutting-edge research papers and tech blogs  
+- Contributing to open-source projects (code & docs)  
+- Sharing AI content to support the community  
+- Fitness & Muay Thai  
+
 ---
 
-欢迎大家交流学习，一起进步！🚀
+## 📜 Certifications
+
+- IELTS 7  
+- TOPIK Level 6  
+- PMP (Project Management Professional)  
+
+---
+
+Let’s connect and grow together! 🚀
